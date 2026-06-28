@@ -100,14 +100,6 @@ http://localhost:8080
 * CI/CD
 * Enterprise Java Development
 
----
-
-## Credits
-
-This project is based on the original Spring PetClinic project by the Spring Team.
-
-Original Repository:
-https://github.com/spring-projects/spring-petclinic
 
 ---
 
