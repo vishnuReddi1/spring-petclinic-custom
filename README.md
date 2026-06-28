@@ -103,6 +103,19 @@ http://localhost:8080
 
 ---
 
+## My Customizations
+
+This project is based on the Spring PetClinic sample application. I customized it to learn Spring Boot and modern software development practices.
+
+### Changes I made
+- Modified the user interface and styling.
+- Updated project configuration for my development environment.
+- Added/improved Docker support.
+- Updated dependencies and project structure.
+- Fixed bugs encountered during setup and testing.
+- Improved documentation and setup instructions.
+- Experimented with additional Spring Boot features.
+
 ## License
 
 This project follows the same Apache 2.0 License as the original project.
